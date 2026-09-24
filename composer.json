@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "Controller/",
+            "Model\\": "Model/"
+        },
+        "files": [
+            "Config/configuration.php"
+        ]
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
